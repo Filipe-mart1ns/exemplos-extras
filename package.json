@@ -1,0 +1,20 @@
+{
+  "name": "exemplo01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+
+  "scripts": {
+    "dev":  "nodemon src/exemplo01.js",
+    "exemplo02":  "nodemon src/exemplo02.js",
+    "exemplo03": "nodemon src/exemplo03.js",
+    "exemplo04": "nodemon src/exemplo04.js"
+  },
+  
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
